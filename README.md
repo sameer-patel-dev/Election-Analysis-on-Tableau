@@ -1,6 +1,6 @@
 # Tableau - Election Analysis
 
-This Repository contains the statistical analysis of the elections of Maharashtra for the year 2019 and 2020. This was done for the course work of Tableau during my 3rd year of engineering. I've attached all the screenshots below regarding the visualization.
+This Repository contains the statistical analysis of the elections of Maharashtra for the year 2019 and 2020. This was done for the course work of Tableau during my 3rd year of engineering. I've attached all the screenshots below regarding the visualization .
 
 ![Responsice Mockup](https://github.com/sameer-patel-dev/Election-Analysis-on-Tableau/blob/master/images/Tableau.png)
 
